@@ -33,8 +33,8 @@ pygmentsUseClasses = true
   dotColor = "#4320d6"
   enableGoogleFonts = true 
   googleFontsUrl = "https://fonts.googleapis.com/css2?family=Inter&family=Newsreader:wght@400;700&display=swap"
-  fontFamilyHeading = "Inter"
-  fontFamilyParagraph = "Newsreader"
+  fontFamilyHeading = "Newsreader"
+  fontFamilyParagraph = "Inter"
   fontFamilyMonospace = "monospace"
 
 # markdown config settings https://gohugo.io/getting-started/configuration-markup/#goldmark
