@@ -4,44 +4,27 @@ url: "/about/"
 image: images/about.jpg
 ---
 
-## Contra vagos
+## About me
+Hello there! I’m Stephen Ajulu, a global tech expert, writer, and consultant with over a decade of experience. I build impactful products, brands, and solutions using cutting-edge technology, strategic insight, and innovative marketing strategies. I'm passionate about Web Development, Design, AI, Blockchain, Cybersecurity, Automation, Data Science, Robotics, and Cloud Computing. Beyond expertise, I also offer bespoke services and solutions in these very passions.
 
-Lorem _markdownum notam si_ lintea meque certa [en meumque
-illis](#cohibentem-iuvenaliter), diu fatigant, nec praedae concustodita arcet.
-[Paviunt castris](#nemorisque-urimur-violentus) cur errat ventis causa! Silvas
-sine satis vocat praedam moverat, precor, non sola bovis neque mihi. Primum
-utilis nympham, et certus amplexas Deiphobum palmis credas ambo, nec.
+### Work
+- IT Officer at the Kenya National Library Service: By day, I contribute to the digital transformation of our national library, ensuring seamless access to knowledge and resources.
+- Founder and Consultant at Julz Insight: By night, I wear my entrepreneurial hat, guiding businesses and individuals toward success through strategic insights and technological solutions.
 
-> Excidit gente, si orat suo quaeque dura Calydon nata? Pars auro post stetit
-> adfusique imis amplexus. Agmina per fabricator
-> mittere Erymanthon habetque tot.
+### Writing
+I find joy in expressing my thoughts through words:
+- Tech, Design, and Lifestyle: I write about the latest tech, trends, innovations, and lifestyle choices.
+- Emerging Trends: My curiosity leads me to explore emerging technologies and share my findings.
+- Anything That Catches My Eye: From gadgets to cultural phenomena, I pen down what intrigues me.
 
-**Cineres Nile ipsa** origine discurrunt adest Unde, et quem clausus, imo,
-virens quoque tales, potuit. Ingentes insilit corpore nutricis praebebat roganti
-licuit. Denique a vestros adulantum in bella lina parte et arte generi di igitur
-quis, digitis pedes. Cum resonant tamen, namque in anxia. Non nostri trahens
-ancora.
+### Offline Adventures
+When I’m not immersed in the digital realm, you’ll find me:
+- Learning New Things: Lifelong learning fuels my passion.
+- Building Things: Whether it’s code, gadgets, or DIY projects, I love creating.
+- Anime Enthusiast: Anime transports me to fascinating worlds and inspires my imagination.
 
-## Ducem oculos pallor tale quoque
-
-Pectora de Hebe veste mansit nemorisque oppugnare deos, interea eo calescit
-**invita insidiae** Amymonen, semper respiciens vocato, illis! Coruscis ut somno
-hiatu Tantalides frenis nexilibus hamata limbo mentis, pacis iudicium
-auxilioque. Genus dolori, me ira hae inpediunt tellus, nascendi Boreas!
-Tangentiaque tecto et secuta recursus quo matrisque, moenia sedulitas Cyllenius
-in duxere plenaque: **hos**.
-
-1. Olim pulvere
-2. Verus ego ovantem mihi
-3. Tenuit erat semina superari
-4. Dabis natis hoc genu in quidem dumque
-
-Per tenuata [potiora](#inmeritae-discordemque-iterum) dedit caelo admota
-iniustus decipere do loca multa non parat. Ingratos his ut inde credite sensit
-sorte. Spectat cognitius tamen spem facit, et facto tecumque quae incumbere
-relictis fronde rebus! Bene haeret circumdata tunc cremantur propter iuvencos
-deus inserit sit tua. Pompa non precor procumbit inania lacrimas sacra credetis:
-Oceano, femina?
-
-Bacchantum neque. Humum ut violasse quam inmotos! Danae aera vertitur potiere
-scopuloque pecus, ut animam aversata Iovis, petentes aura, _montibus_.
+### Online Presence
+- Instagram: @stephenajulu
+- Twitter: @stephenajulu
+- GitHub: @stephenajulu
+More ways to find me online: https://stephenajulu.com/links
