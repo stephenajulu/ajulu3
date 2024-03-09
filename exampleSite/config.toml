@@ -24,13 +24,13 @@ pygmentsUseClasses = true
   limitPostsOnHomepage = 3 # only used if usePaginationOnHomepage is false
   sortPostsByDateOldestFirst = false
   addDot = true
-  addFrame = true
-  highlightColor = '#4320d6'
+  addFrame = false
+  highlightColor = '#6320d6'
   baseColor = "#ffffff"
   baseOffsetColor = "#eaeaea"
   headingColor = "#1c1b1d"
   textColor = "#4e5157"
-  dotColor = "#4320d6"
+  dotColor = "#6320d6"
   enableGoogleFonts = true 
   googleFontsUrl = "https://fonts.googleapis.com/css2?family=Inter:wght@400..700&family=Newsreader:ital,opsz,wght@0,6..72,400..700;1,6..72,400..700&display=swap"
   fontFamilyHeading = "Newsreader"
