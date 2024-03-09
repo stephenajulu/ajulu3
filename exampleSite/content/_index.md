@@ -1,5 +1,5 @@
 ---
-title: Hello there, I'm Ajulu, an IT Professional, Writer and Consultant
+title: Hello there, I'm Ajulu
 description: The hallway smelt of boiled cabbage and old rag mats.
 ---
 
