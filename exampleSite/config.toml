@@ -1,8 +1,8 @@
-baseURL = "/"
+ baseURL = "/"
 languageCode = "en-us"
 theme = "hugo-winston-theme"
 themesDir = "themes"
-title = "Hugo Winston Theme"
+title = "Stephen Ajulu - IT Professional, Writer & Consultant"
 paginate = 3
 pygmentsCodeFences = true
 pygmentsCodefencesGuessSyntax = true
@@ -15,9 +15,9 @@ pygmentsUseClasses = true
 
 [params]
   google_analytics_id = ""
-  twitter_handle = "@zerostaticio"
-  showAuthorOnHomepage = true
-  showAuthorOnPosts = false
+  twitter_handle = "@stephenajulu"
+  showAuthorOnHomepage = false
+  showAuthorOnPosts = true
   showIntroContentOnHomepage = true
   showPostsOnHomepage = false
   usePaginationOnHomepage = false
@@ -25,15 +25,15 @@ pygmentsUseClasses = true
   sortPostsByDateOldestFirst = false
   addDot = true
   addFrame = true
-  highlightColor = '#7b16ff'
+  highlightColor = '#4320d6'
   baseColor = "#ffffff"
   baseOffsetColor = "#eaeaea"
   headingColor = "#1c1b1d"
   textColor = "#4e5157"
-  dotColor = "#7b16ff"
+  dotColor = "#4320d6"
   enableGoogleFonts = true 
-  googleFontsUrl = "https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap"
-  fontFamilyHeading = "Poppins"
+  googleFontsUrl = "https://fonts.googleapis.com/css2?family=Newsreader:wght@400;700&display=swap"
+  fontFamilyHeading = "Newsreader"
   fontFamilyParagraph = "Helvetica"
   fontFamilyMonospace = "monospace"
 
@@ -56,6 +56,11 @@ pygmentsUseClasses = true
     identifier = "blog"
     weight = 2
     url = "/posts/"
+  [[menu.main]]
+    name = "Projects"
+    identifier = "projects"
+    weight = 2
+    url = "/projects/"
   [[menu.main]]
     name = "About"
     identifier = "about"
