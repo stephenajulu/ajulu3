@@ -32,7 +32,7 @@ pygmentsUseClasses = true
   textColor = "#4e5157"
   dotColor = "#4320d6"
   enableGoogleFonts = true 
-  googleFontsUrl = "https://fonts.googleapis.com/css2?family=Inter&family=Newsreader:wght@400;700&display=swap"
+  googleFontsUrl = "https://fonts.googleapis.com/css2?family=Inter:wght@400..700&family=Newsreader:ital,opsz,wght@0,6..72,400..700;1,6..72,400..700&display=swap"
   fontFamilyHeading = "Newsreader"
   fontFamilyParagraph = "Inter"
   fontFamilyMonospace = "monospace"
