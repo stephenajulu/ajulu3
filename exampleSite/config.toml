@@ -1,9 +1,9 @@
- baseURL = "/"
+baseURL = "/"
 languageCode = "en-us"
 theme = "hugo-winston-theme"
 themesDir = "themes"
-title = "Ajulu"
-paginate = 3
+title = "Stephen Ajulu"
+paginate = 6
 pygmentsCodeFences = true
 pygmentsCodefencesGuessSyntax = true
 pygmentsUseClasses = true
@@ -17,7 +17,7 @@ pygmentsUseClasses = true
   google_analytics_id = ""
   twitter_handle = "@stephenajulu"
   showAuthorOnHomepage = false
-  showAuthorOnPosts = true
+  showAuthorOnPosts = false
   showIntroContentOnHomepage = true
   showPostsOnHomepage = false
   usePaginationOnHomepage = false
@@ -59,15 +59,10 @@ pygmentsUseClasses = true
   [[menu.main]]
     name = "Projects"
     identifier = "projects"
-    weight = 2
+    weight = 3
     url = "/projects/"
   [[menu.main]]
     name = "About"
     identifier = "about"
-    weight = 3
-    url = "/About/"
-  [[menu.main]]
-    name = "Tags"
-    identifier = "tags"
     weight = 4
-    url = "/tags/"
+    url = "/About/"
