@@ -1,6 +1,6 @@
 ---
-title: You don't start out writing good stuff
+title: Hello there, I'm Ajulu, an IT Professional, Writer and Consultant
 description: The hallway smelt of boiled cabbage and old rag mats.
 ---
 
-The hallway smelt of boiled cabbage and old rag mats. At one end of it a coloured poster, too large for indoor display, had been tacked to the wall. It depicted simply an enormous face, more than a metre wide: the face of a man of about forty-five, with a heavy black moustache and ruggedly handsome features. Winston made for the stairs. It was no use trying the lift. 
+Hello! I’m a tech expert, writer, and consultant with a decade of experience. I’m passionate about many things, especially Web Dev, Design, AI, Blockchain, Cybersecurity, Automation, Data, and Cloud. I also build impactful products, brands, and solutions using cutting-edge technology at Julz Insight.
