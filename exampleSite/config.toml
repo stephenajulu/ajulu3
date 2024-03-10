@@ -8,6 +8,12 @@ pygmentsCodeFences = true
 pygmentsCodefencesGuessSyntax = true
 pygmentsUseClasses = true
 
+[outputFormats.RSS]
+baseName = "feed"
+mediatype = "application/rss"
+[outputs]
+home = ["HTML", "RSS", "JSON"]
+
 [module]
   [module.hugoVersion]
     extended = true
