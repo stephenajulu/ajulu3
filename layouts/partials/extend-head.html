@@ -2,3 +2,11 @@
 {{- /*     Insert any custom code (web-analytics, resources, etc.) - it will appear in the <head></head> section of every page. */ -}}
 {{- /*     Can be overwritten by partial with the same name in the global layouts. */ -}}
 {{- /* Head custom content area end */ -}}
+  
+{{ "<!-- Web Monitization -->" | safeHTML }}
+    <meta name="monetization" content="$ilp.uphold.com/GLrwmQrfDeU9">
+
+{{ "<!-- RSS Link-->" | safeHTML}}
+{{ range .AlternativeOutputFormats -}}
+    {{ printf `<link rel="%s" type="%s" href="%s" title="%s" />` .Rel .MediaType.Type .Permalink $.Site.Title | safeHTML }}
+{{ end -}} 
