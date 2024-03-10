@@ -42,4 +42,7 @@ Consultation: I offer expert advice and strategic guidance across all the above 
 - GitHub: @stephenajulu
 - More ways to find me online: https://stephenajulu.com/links
 
+> "Write about what fascinates you. You don't need to be an expert. Curiosity leads to expertise."
+James Clear, Author of Atomic Habits
+
 #### Interested in a chat? [Let's chat](mailto:ajulu@stephenajulu.com)
