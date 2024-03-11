@@ -47,6 +47,7 @@ mediatype = "application/json"
   fontFamilyMonospace = "monospace"
   formspree = "https://formspree.io/f/alunje73@gmail.com"
   copyright="2024 Stephen Ajulu"
+  showFullTextinJSONFeed = "true"
 
   [Author]
     name = "Stephen Ajulu"
