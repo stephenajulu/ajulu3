@@ -4,7 +4,7 @@
   <div class="footer-social">
     {{ range .Site.Data.social.links }}
       <span class="social-icon social-icon-{{ .name | urlize }}">
-        <a href="{{ .url }}" title="{{ .name }}" target="_blank" rel="noopener">
+        <a href="{{ .url }}" title="{{ .name }}" target="_blank" rel="noopener me">
           <img src="{{ .image | relURL }}" width="24" height="24" alt="{{ .name }}"/>
         </a>
       </span>
