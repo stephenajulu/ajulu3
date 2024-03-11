@@ -1,5 +1,0 @@
-{{- $index := slice -}}
-{{- range $page := $.Site.RegularPages -}}
-    {{- $index = $index | append (dict "title" $page.Title "href" $page.Permalink "content" ($page.Content | plainify | jsonify) "summary" ($page.Summary | plainify | safeHTML) "tags" (delimit $page.Params.tags " ") ) -}}
-{{- end -}}
-{{- $index | jsonify -}}
