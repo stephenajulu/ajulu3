@@ -1,7 +1,7 @@
 <div class='header'>
   <div>{{ partial "logo.html" . }}</div>
   <div class="menu-main">
-    <ul>
+    <ul style="font-family: Newsreader;">
       {{ $currentPage := . }}
       {{ range .Site.Menus.main }}
       {{ $active := or ($currentPage.IsMenuCurrent "main" .) ($currentPage.HasMenuCurrent "main" .) }}
