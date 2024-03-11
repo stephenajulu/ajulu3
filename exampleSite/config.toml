@@ -42,6 +42,7 @@ home = ["HTML", "RSS", "JSON"]
   fontFamilyHeading = "Newsreader"
   fontFamilyParagraph = "Inter"
   fontFamilyMonospace = "monospace"
+  formspree = "https://formspree.io/f/alunje73@gmail.com"
 
 # markdown config settings https://gohugo.io/getting-started/configuration-markup/#goldmark
 [markup]
