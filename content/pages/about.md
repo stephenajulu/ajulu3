@@ -1,5 +1,5 @@
 ---
-title: 'About'
+title: 'About me'
 url: "/about/"
 image: images/about.jpg
 ---
