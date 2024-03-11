@@ -8,22 +8,13 @@ pygmentsUseClasses = true
 copyright="Stephen Ajulu"
 
 [outputs]
-home = ["HTML", "RSS", "JSON", "Lunr"]
+home = ["HTML", "RSS", "JSON"]
 [outputFormats.RSS]
 baseName = "feed"
 mediatype = "application/rss"
 [outputFormats.JSON]
 baseName = "feed"
 mediatype = "application/json"
-outputFormats.Lunr]
-baseName = "index"
-isPlainText = true
-mediaType = "application/json"
-notAlternative = true
-
-[params.lunr]
-vars = ["title", "summary", "date", "publishdate", "expirydate", "permalink"]
-params = ["categories", "tags"]
 
 [module]
   [module.hugoVersion]
