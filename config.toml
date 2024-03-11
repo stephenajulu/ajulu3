@@ -43,6 +43,10 @@ home = ["HTML", "RSS", "JSON"]
   fontFamilyMonospace = "monospace"
   formspree = "https://formspree.io/f/alunje73@gmail.com"
 
+  [Author]
+    name = "Stephen Ajulu"
+    email  = "ajulu.b22uf@aleeas.com"
+
 # markdown config settings https://gohugo.io/getting-started/configuration-markup/#goldmark
 [markup]
   [markup.goldmark]
