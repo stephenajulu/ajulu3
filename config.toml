@@ -5,6 +5,7 @@ paginate = 3
 pygmentsCodeFences = true
 pygmentsCodefencesGuessSyntax = true
 pygmentsUseClasses = true
+copyright="Stephen Ajulu"
 
 [outputFormats.RSS]
 baseName = "feed"
