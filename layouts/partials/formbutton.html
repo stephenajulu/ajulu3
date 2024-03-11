@@ -2,11 +2,11 @@
   window.formbutton = window.formbutton || function() {
     (formbutton.q = formbutton.q || []).push(arguments)
   };
-  function updateFormbutton(title) {
   formbutton("create", {
     action: "https://formspree.io/f/alunje73@gmail.com",
     title: "Let's chat",
     theme: "minimal",
+    loadGoogleFonts: "false",
     fields: [{
         name: "name",
         type: "text",
