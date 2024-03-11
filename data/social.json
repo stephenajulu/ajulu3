@@ -14,21 +14,6 @@
       "name": "linkedin",
       "url": "https://www.linkedin.com/in/stephenajulu",
       "image": "images/social/linkedin.svg"
-    },
-    {
-      "name": "instagram",
-      "url": "https://instagram.com/stephenajulu",
-      "image": "images/social/instagram.svg"
-    },
-    {
-      "name": "email",
-      "url": "mailto:ajulu.b22uf@aleeas.com",
-      "image": "images/social/email.svg"
-    },
-    {
-      "name": "rss",
-      "url": "/feed.xml",
-      "image": "images/social/rss.svg"
     }
   ]
 }
