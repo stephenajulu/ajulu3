@@ -17,6 +17,9 @@ I find joy in expressing my thoughts through words:
 - Emerging Trends: My curiosity leads me to explore emerging technologies and share my findings.
 - Anything That Catches My Eye: I pen down what intrigues me from gadgets to cultural phenomena.
 
+> "Write about what fascinates you. You don't need to be an expert. Curiosity leads to expertise."
+James Clear, Author of Atomic Habits
+
 ### Offline Adventures
 When I’m not immersed in the digital realm, you’ll find me:
 - Learning New Things: Lifelong learning fuels my passion.
@@ -41,8 +44,5 @@ When I’m not immersed in the digital realm, you’ll find me:
 - Twitter: @stephenajulu
 - GitHub: @stephenajulu
 - More ways to find me online: https://stephenajulu.com/links
-
-> "Write about what fascinates you. You don't need to be an expert. Curiosity leads to expertise."
-James Clear, Author of Atomic Habits
 
 #### Interested in a chat? [Let's chat](mailto:ajulu.b22uf@aleeas.com)
