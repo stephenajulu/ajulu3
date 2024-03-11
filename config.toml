@@ -52,6 +52,7 @@ mediatype = "application/json"
   [Author]
     name = "Stephen Ajulu"
     email  = "ajulu.b22uf@aleeas.com"
+    url = "https://stephenajulu.com"
 
 # markdown config settings https://gohugo.io/getting-started/configuration-markup/#goldmark
 [markup]
