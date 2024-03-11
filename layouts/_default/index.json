@@ -24,15 +24,15 @@
     "title": {{ $title | jsonify }},
     "home_page_url": {{ .Permalink | jsonify }},
     {{- with  .OutputFormats.Get "jsonfeed" }}
-    "feed_url": {{ .Permalink | jsonify  }},
+    "feed_url": {{ .RelPermalink | jsonify  }},
     {{- end }}
     {{- if (or .Site.Params.author .Site.Params.author_url) }}
     "authors": [{
       {{- if .Site.Params.author }}
-        "name": {{ .Site.Params.author | jsonify }},
+        "name": {{ .Site.Params.author.name | jsonify }},
       {{- end }}
-      {{- if .Site.Params.author_url }}
-        "url": {{ .Site.Params.author_url | jsonify }}
+      {{- if .Site.Params.author.url }}
+        "url": {{ .Site.Params.author.url | jsonify }}
       {{- end }}
     }],
     {{- end }}
@@ -42,8 +42,8 @@
         {{- with $element }}
         {{- if $index }},{{end}} {
             "title": {{ .Title | jsonify }},
-            "id": {{ .Permalink | jsonify }},
-            "url": {{ .Permalink | jsonify }},
+            "id": {{ .RelPermalink | jsonify }},
+            "url": {{ .RelPermalink | jsonify }},
             {{- if .Site.Params.showFullTextinJSONFeed }}
             "summary": {{ with .Description }}{{ . | jsonify }}{{ else }}{{ .Summary | jsonify }}{{ end -}},
             "content_html": {{ .Content | jsonify }},
