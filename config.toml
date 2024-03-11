@@ -11,7 +11,7 @@ copyright="Stephen Ajulu"
 home = ["HTML", "RSS", "JSON"]
 [outputFormats.RSS]
 baseName = "feed"
-mediatype = "application/feed+rss"
+mediatype = "application/rss"
 [outputFormats.JSON]
 baseName = "feed"
 mediatype = "application/json"
