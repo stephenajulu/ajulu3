@@ -24,17 +24,17 @@ When I’m not immersed in the digital realm, you’ll find me:
 - Anime Enthusiast: Anime transports me to fascinating worlds and inspires my imagination.
 
 ### Solutions and Services
-- Web Development: I specialize in creating dynamic, fast, and user-friendly websites using a variety of platforms such as Webflow, Hugo(JAMstack), WordPress, Carrd, Vanilla Javascript, Ghost, and Framer.
-- UI/UX/Web/Graphic Design: I create intuitive user interfaces, captivating web designs, and eye-catching graphics using tools such as Figma, Adobe Illustrator, and Photoshop.
-- Digital Transformation: I guide organizations through digital evolution using ERP, CRM, Cloud, Project Management, Collaboration, Helpdesk and Support, Media Management, and Content Delivery Systems.
-- Visual Brand Identity Design: I create cohesive brand identities that resonate with your audience by crafting logos, color schemes, typography, and brand guidelines.
-- Content Writing: I craft compelling narratives through blog posts, articles, website copy, and more.
-- Digital Marketing: I drive online success through strategic marketing by offering Full SEO, Content Marketing, Copywriting, Email Marketing, Social Media Management, and Funnel Building.
-- AI & Automation: I Leverage cutting-edge tools such as ManyChat, Zapier, Make, and IFTTT.
-- Integrations: I seamlessly connect systems
-- Cloud Computing: I Harness the power of cloud platforms to ease your technical infrastructure through the use of IBM Cloud, Azure, and Oracle Cloud Solutions
-- Open Source Solution Development: I tailor open-source software to meet specific organizational needs
-Consultation: I offer expert advice and strategic guidance across all the above domains.
+1. Web Development
+2. UI/UX, Web, and Graphic Design
+3. Digital Transformation
+4. Visual Brand Identity Design
+5. Content Writing
+6. Digital Marketing
+7. AI and Automation
+8. Integrations
+9. Cloud Computing
+10. Open Source Solution Development
+11. Strategic Insight and Consultation
 
 ### Online Presence
 - Instagram: @stephenajulu
