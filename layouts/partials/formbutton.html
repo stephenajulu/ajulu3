@@ -2,26 +2,27 @@
   window.formbutton = window.formbutton || function() {
     (formbutton.q = formbutton.q || []).push(arguments)
   };
+  function updateFormbutton(title) {
   formbutton("create", {
     action: "https://formspree.io/f/alunje73@gmail.com",
-    title: "Let's Chat",
+    title: "Let's chat",
     theme: "minimal",
     fields: [{
         name: "name",
         type: "text",
-        label: "what's your name",
+        label: "What's your name?",
         required: true,
       },
       {
         name: "email",
         type: "email",
-        label: "what's your email address",
+        label: "Your email address?",
         required: true
       },
       {
         name: "Message",
         type: "textarea",
-        label: "hello there",
+        label: "Talk to me..............",
       },
       {
         type: "submit"
@@ -36,5 +37,6 @@
         background: "#6320D6",
       }
     },
-  })
+  }}
+updateFormbutton("Let's chat")
 </script>
