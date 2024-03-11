@@ -26,17 +26,17 @@ When I’m not immersed in the digital realm, you’ll find me:
 - Anime Enthusiast: Anime transports me to fascinating worlds and inspires my imagination.
 
 ### Solutions and Services
-1. Web Development
-2. UI/UX, Web, and Graphic Design
-3. Digital Transformation
-4. Visual Brand Identity Design
-5. Content Writing
-6. Digital Marketing
-7. AI and Automation
-8. Integrations
-9. Cloud Computing
-10. Open Source Solution Development
-11. Strategic Insight and Consultation
+- Web Development
+- UI/UX, Web, and Graphic Design
+- Digital Transformation
+- Visual Brand Identity Design
+- Content Writing
+- Digital Marketing
+- AI and Automation
+- Integrations
+- Cloud Computing
+- Open Source Solution Development
+- Strategic Insight and Consultation
 
 ### Online Presence
 - Instagram: @stephenajulu
