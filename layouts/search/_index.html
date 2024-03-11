@@ -1,0 +1,17 @@
+{{ define "main" }}
+<form id="search" role="search">
+  <input type="search" id="search-input">
+</form>
+
+<div class="results"></div>
+<template id="template" hidden>
+  <article>
+    <h1 class="title">
+      <a class="href"></a>
+    </h1>
+    <div class="summary"></div>
+    <div class="tags"></div>
+  </article>
+</template>
+
+{{ end }}
