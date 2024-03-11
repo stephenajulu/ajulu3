@@ -14,7 +14,7 @@ baseName = "feed"
 mediatype = "application/feed+rss"
 [outputFormats.JSON]
 baseName = "feed"
-mediatype = "application/feed+json"
+mediatype = "application/json"
 
 [module]
   [module.hugoVersion]
