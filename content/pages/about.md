@@ -4,7 +4,7 @@ url: "/about/"
 image: images/about.jpg
 ---
 
-## About me
+### About Ajulu
 Hello there! I’m Stephen Ajulu, a global tech expert, writer, and consultant with over a decade of experience. I build impactful products, brands, and solutions using cutting-edge technology, strategic insight, and innovative marketing strategies. I'm passionate about Web Development, Design, AI, Blockchain, Cybersecurity, Automation, Data Science, Robotics, and Cloud Computing. Beyond expertise, I also offer bespoke services and solutions in these very passions.
 
 ### Work
