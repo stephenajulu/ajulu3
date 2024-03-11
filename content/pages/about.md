@@ -17,7 +17,7 @@ I find joy in expressing my thoughts through words:
 - Emerging Trends: My curiosity leads me to explore emerging technologies and share my findings.
 - Anything That Catches My Eye: I pen down what intrigues me from gadgets to cultural phenomena.
 
-<blockquote cite="https://twitter.com/JamesClear/status/1108397795763990528" style="font-family: Newsreader;font-weight: bold;font-size: 16px;">"Write about what fascinates you. You don't need to be an expert. Curiosity leads to expertise." - James Clear, Author of Atomic Habits</blockquote>
+<blockquote cite="https://twitter.com/JamesClear/status/1108397795763990528" style="font-family: Newsreader;font-weight: bold;font-size: 22px;">"Write about what fascinates you. You don't need to be an expert. Curiosity leads to expertise." - James Clear, Author of Atomic Habits</blockquote>
 
 ### Offline Adventures
 When I’m not immersed in the digital realm, you’ll find me:
