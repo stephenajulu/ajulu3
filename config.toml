@@ -1,7 +1,5 @@
 baseURL = "/"
 languageCode = "en-us"
-theme = "hugo-winston-theme"
-themesDir = "themes"
 title = "Stephen Ajulu"
 paginate = 3
 pygmentsCodeFences = true
