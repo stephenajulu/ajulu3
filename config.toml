@@ -11,10 +11,10 @@ copyright="Stephen Ajulu"
 home = ["HTML", "RSS", "JSON"]
 [outputFormats.RSS]
 baseName = "feed"
-mediatype = "application/rss"
+mediatype = "application/feed+rss"
 [outputFormats.JSON]
 baseName = "feed"
-mediatype = "application/json"
+mediatype = "application/feed+json"
 
 [module]
   [module.hugoVersion]
@@ -46,7 +46,7 @@ mediatype = "application/json"
   fontFamilyParagraph = "Inter"
   fontFamilyMonospace = "monospace"
   formspree = "https://formspree.io/f/alunje73@gmail.com"
-  copyright="Stephen Ajulu"
+  copyright="2024 Stephen Ajulu"
 
   [Author]
     name = "Stephen Ajulu"
