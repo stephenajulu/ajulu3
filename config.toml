@@ -36,6 +36,7 @@ home = ["HTML", "RSS", "JSON"]
   textColor = "#4e5157"
   dotColor = "#6320d6"
   enableGoogleFonts = true 
+  enableGitInfo = true
   googleFontsUrl = "https://fonts.googleapis.com/css2?family=Inter:wght@100..900&family=Newsreader:ital,opsz,wght@0,6..72,200..800;1,6..72,200..800&display=swap"
   fontFamilyHeading = "Newsreader"
   fontFamilyParagraph = "Inter"
