@@ -10,3 +10,5 @@
 {{ range .AlternativeOutputFormats -}}
     {{ printf `<link rel="%s" type="%s" href="%s" title="%s" />` .Rel .MediaType.Type .Permalink $.Site.Title | safeHTML }}
 {{ end -}} 
+
+<script src="https://formspree.io/js/formbutton-v1.min.js" defer></script>
