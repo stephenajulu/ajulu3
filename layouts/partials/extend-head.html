@@ -55,3 +55,15 @@
    const el = document.createElement('pwa-update');
    document.body.appendChild(el);
   </script>
+
+  {{ "<!-- Webmention Script -->" | safeHTML }}
+
+  {{ $webmention := resources.Get "js/webmention.min.js" }}
+
+  {{ $wbm := slice $webmention | resources.Concat "js/bundle.js" }}
+
+  {{- if hugo.IsProduction | or (eq site.Params.env "production") }}
+    <script type="text/javascript" src="{{ ($wbm | minify | fingerprint).RelPermalink }}"></script>
+  {{ else }}
+    <script type="text/javascript" src="{{ $wbm.RelPermalink }}"></script>
+  {{ end }}

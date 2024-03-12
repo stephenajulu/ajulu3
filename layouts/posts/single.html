@@ -13,8 +13,12 @@
     </div>
     <div class="content e-content">
       {{ .Content }}
+      <br>
       {{ partial "share.html" . }}
+      <br>
       <a style="font-family: Newsreader; font-weight: bold; font-style: italics; color: #6320d6; text-decoration:none;" href="mailto:{{ $.Site.Author.email }}?subject={{ replace (printf "Re: %s" .Page.Title) "\"" "'" }}">Reply by email</a>
+      <br>
+      <div>{{ partial "webmention.html" . }}<br>
     </div>
     {{ partial "backlinks.html" (dict "page" .) }}
   </div>
