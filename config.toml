@@ -24,6 +24,7 @@ mediatype = "application/json"
 [params]
   google_analytics_id = ""
   twitter_handle = "@stephenajulu"
+  creator = "stephenajulu"
   showAuthorOnHomepage = false
   showAuthorOnPosts = false
   showIntroContentOnHomepage = true
@@ -40,20 +41,24 @@ mediatype = "application/json"
   textColor = "#4e5157"
   dotColor = "#6320d6"
   enableGoogleFonts = true 
+  location = "Nairobi, Kenya"
   enableGitInfo = true
   googleFontsUrl = "https://fonts.googleapis.com/css2?family=Inter:wght@100..900&family=Newsreader:ital,opsz,wght@0,6..72,200..800;1,6..72,200..800&display=swap"
   fontFamilyHeading = "Newsreader"
   fontFamilyParagraph = "Inter"
   fontFamilyMonospace = "monospace"
   formspree = "https://formspree.io/f/alunje73@gmail.com"
-  copyright="2024 Stephen Ajulu"
+  copyright = "Stephen Ajulu"
   showFullTextinJSONFeed = "true"
+  image = "#"
+
 
   [Author]
     name = "Stephen Ajulu"
     email  = "ajulu.b22uf@aleeas.com"
     url = "https://stephenajulu.com"
     image = "images/about.jpg"
+    description = "Hello, I'm Stephen Ajulu, a tech expert, writer, and consultant with over a decade of experience. I build impactful products, brands, and solutions by using cutting-edge technology, insight, and marketing."
 
 # markdown config settings https://gohugo.io/getting-started/configuration-markup/#goldmark
 [markup]
