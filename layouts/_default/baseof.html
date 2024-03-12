@@ -6,7 +6,7 @@
   <meta http-equiv="x-ua-compatible" content="ie=edge">
   <title>{{ block "title" . }}{{ .Title }} - {{ .Site.Title }}{{ end }}</title>
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  
+
   {{ "<!--Favicon -->" | safeHTML }}
   <link rel="shortcut icon" href="{{ "images/favicon.ico" | absURL }}" type="image/x-icon" />
    <link rel="icon" href="{{ "images/favicon.png" | absURL }}" type="image/x-icon" />
@@ -26,15 +26,11 @@
   {{- end }}
 
   {{ block "meta_tags" . }}
-    {{ if .Params.description }}<meta name="description" content="{{ .Params.description }}"/>{{ end }}
-    <meta property="og:title" content="{{ .Title }}"/>
-    <meta property="og:type" content="website"/>
-    <meta property="og:url" content="{{ .Permalink }}"/>
+    {{ if .Params.description }}<meta name="description" content="{{ .Params.description }}"/>{{ end }}<meta property="og:title" content="{{ if .IsHome }}{{ .Title }}{{ else }}{{ .Title }} - {{ .Site.Title }}{{ end }}"/><meta property="og:type" content="{{ if .IsPage }}article{{ else }}website{{ end }}"/><meta property="og:url" content="{{ .Permalink }}"/>
     {{ if .Params.image }}<meta property="og:image" content="{{ .Params.image | absURL }}"/>{{ end }}
-    {{ if .Params.description }}<meta property="og:description" content="{{ .Params.description }}"/>{{ end }}
-    <meta name="twitter:card" content="summary"/>
+    {{ if .Params.description }}<meta property="og:description" content="{{ .Params.description }}"/>{{ end }}<meta name="twitter:card" content="summary_large_image"/>
     {{ if .Site.Params.twitter_handle }}<meta name="twitter:site" content="{{ .Site.Params.twitter_handle }}"/>{{ end }}
-    {{ if .Site.Params.twitter_handle }}<meta name="twitter:creator" content="{{ .Site.Params.twitter_handle }}"/>{{ end }}
+    {{ if .Site.Params.twitter_handle }}<meta name="twitter:creator" content="{{ .Site.Params.twitter_handle }}"/>{{ end }}<meta property="twitter:url" content="{{ .Permalink }}"><meta property="twitter:title" content="{{ if .IsHome }}{{ .Title }}{{ else }}{{ .Title }} | {{ .Site.Title }}{{ end }}"><meta property="twitter:description" content="{{ .Params.Description }}"><meta property="twitter:image" content="{{ .Params.image | absURL }}"><meta itemprop="name" content="{{ if .IsHome }}{{ .Title }}{{ else }}{{ .Title }} | {{ .Site.Title }}{{ end }}"><meta itemprop="description" content="{{ .Params.Description }}">
   {{ end }}
 
   {{ if and .Site.Params.googleFontsUrl .Site.Params.enableGoogleFonts }}

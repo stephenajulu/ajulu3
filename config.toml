@@ -50,7 +50,7 @@ mediatype = "application/json"
   formspree = "https://formspree.io/f/alunje73@gmail.com"
   copyright = "Stephen Ajulu"
   showFullTextinJSONFeed = "true"
-  image = "#"
+  image = "images/socialimage.png"
 
 
   [Author]
