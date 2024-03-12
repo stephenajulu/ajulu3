@@ -58,4 +58,6 @@ When I’m not immersed in the digital realm, you’ll find me:
 
 ### Interested in a chat? [Let's chat](mailto:ajulu.b22uf@aleeas.com)
 
+{{< form >}}
+
 ### Book a call with me(*Comin Soon*)
