@@ -13,7 +13,8 @@
     </div>
     <div class="content e-content">
       {{ .Content }}
-      {{ $email := .Site.Author.email | base64Encode }}<a data-decode="email" style="font-family: Newsreader; font-weight: bold; font-style: italics; color: #6320d6;" href="mailto:{{ $email }}">Reply by email</a>
+      {{ partial "share.html" . }}
+      <a style="font-family: Newsreader; font-weight: bold; font-style: italics; color: #6320d6; text-decoration:none;" href="mailto:{{ $.Site.Author.email }}?subject={{ replace (printf "Re: %s" .Page.Title) "\"" "'" }}">Reply by email</a>
     </div>
     {{ partial "backlinks.html" (dict "page" .) }}
   </div>
