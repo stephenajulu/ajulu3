@@ -14,8 +14,6 @@
     <div class="content e-content">
       {{ .Content }}
       {{ $email := .Site.Author.email | base64Encode }}<a data-decode="email" style="font-family: Newsreader; font-weight: bold; font-style: italics; color: #6320d6;" href="mailto:{{ $email }}">Reply by email</a>
-      <span class="dt-published" style="color:#d3d3d3;">Published on: {{ .PublishDate | time.Format "January 2, 2006" }}</span><br>
-      <span style="color:#d3d3d3;">Last modified on: {{ .Lastmod | time.Format "January 2, 2006" }}</span>
     </div>
     {{ partial "backlinks.html" (dict "page" .) }}
   </div>
