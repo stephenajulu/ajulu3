@@ -41,6 +41,10 @@ When I’m not immersed in the digital realm, you’ll find me:
 ### Colophon
 - This site is built using [Hugo](https://gohugo.io) a static site generator based on JAMstack, hosted in [GitHub](https://github.com) and deployed to [Netlify](https://netlify.com). It uses [Formspree](https://formspree.io) for static form handling, [Umami Cloud](https://umami.is) for Web Analytics and supports Web Monitization and Indieweb.
 
+### Now
+- I'm building tech products and solutions at [Julz Insight](https://julzinsight.co)
+- I'm building my personal brand on [this website](https://ajulu3.netlify.app), [X(Twitter)](https://twitter.com/stephenajulu), [Instagram](https://instagram.com/stephenajulu) and [Store](https://stephenajulu.gumroad.com)
+
 ### Uses
 - Laptop: HP Pavilion Aero 13
 - Phone: Samsung Galaxy A33 5G
