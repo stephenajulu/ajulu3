@@ -56,6 +56,5 @@
    document.body.appendChild(el);
   </script>
 
-  {{ "<!-- Webmention Script -->" | safeHTML }}
-    {{ $wbm := resources.Get "js/webmention.mini.js" | minify }}
-    <script type="text/javascript" src="{{ wbm.Permalink }}"></script>
+{{ "<!-- Webmention Script -->" | safeHTML }}
+    <script src="{{ "js/webmention.min.js" | absURL }}" async></script>
