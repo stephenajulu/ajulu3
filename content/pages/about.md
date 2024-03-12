@@ -43,7 +43,7 @@ When I’m not immersed in the digital realm, you’ll find me:
 
 ### Now
 - I'm building tech products and solutions at [Julz Insight](https://julzinsight.co)
-- I'm building my personal brand on [this website](https://ajulu3.netlify.app), [X(Twitter)](https://twitter.com/stephenajulu), [Instagram](https://instagram.com/stephenajulu) and [Store](https://stephenajulu.gumroad.com)
+- I'm building my personal brand on [this website](https://ajulu3.netlify.app), [twitter](https://twitter.com/stephenajulu), [instagram](https://instagram.com/stephenajulu) and [store](https://stephenajulu.gumroad.com)
 
 ### Uses
 - Laptop: HP Pavilion Aero 13
