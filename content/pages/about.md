@@ -56,4 +56,6 @@ When I’m not immersed in the digital realm, you’ll find me:
 - GitHub: @stephenajulu
 - More ways to find me online: https://stephenajulu.com/links
 
-#### Interested in a chat? [Let's chat](mailto:ajulu.b22uf@aleeas.com)
+### Interested in a chat? [Let's chat](mailto:ajulu.b22uf@aleeas.com)
+
+### Book a call with me(*Comin Soon*)
