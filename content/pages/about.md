@@ -39,7 +39,12 @@ When I’m not immersed in the digital realm, you’ll find me:
 - Strategic Insight and Consultation
 
 ### Colophon
-- This site is built using [Hugo](https://gohugo.io), hosted in [GitHub](https://github.com) and deployed to [Netlify](https://netlify.com). It uses [Formspree](https://formspree.io) for form handling, [Umami Cloud](https://umami.is) for Web Analytics and supports Web Monitization and Indieweb.
+- This site is built using [Hugo](https://gohugo.io) a static site generator based on JAMstack, hosted in [GitHub](https://github.com) and deployed to [Netlify](https://netlify.com). It uses [Formspree](https://formspree.io) for static form handling, [Umami Cloud](https://umami.is) for Web Analytics and supports Web Monitization and Indieweb.
+
+### Uses
+- Laptop: HP Pavilion Aero 13
+- Phone: Samsung Galaxy A33 5G
+- Favorite Apps & Tools: Microsoft Edge Browser, SimpleNote, Obsidian.md, Copilot, Adobe Express, Bitwarden, Coinbase Wallet, Figma, Powertoys, WSL and more
 
 ### Online Presence
 - Instagram: @stephenajulu
