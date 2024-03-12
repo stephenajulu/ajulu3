@@ -16,5 +16,6 @@
       <span class="dt-published" style="color:#d3d3d3;">Published on: {{ .PublishDate | time.Format "January 2, 2006" }}</span><br>
       <span style="color:#d3d3d3;">Last modified on: {{ .Lastmod | time.Format "January 2, 2006" }}</span>
     </div>
+    {{ partial "backlinks.html" (dict "page" .) }}
   </div>
 {{ end }}
