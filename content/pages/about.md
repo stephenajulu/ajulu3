@@ -51,7 +51,7 @@ When I’m not immersed in the digital realm, you’ll find me:
 ### Uses
 - Laptop: HP Pavilion Aero 13
 - Phone: Samsung Galaxy A33 5G
-- Favorite Apps & Tools: Microsoft Edge Browser, SimpleNote, Obsidian.md, Copilot, Adobe Express, Bitwarden, Coinbase Wallet, Figma, Powertoys, WSL and more
+- Favorite Apps & Tools: Microsoft Edge Browser, SimpleNote, Obsidian, Copilot, Adobe Express, Bitwarden, Coinbase Wallet, Figma, Powertoys, WSL, Formspree, Netlify, GitHub, Ditto, Figma, and more
 
 ### Online Presence
 - Instagram: @stephenajulu
