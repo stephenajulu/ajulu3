@@ -38,6 +38,9 @@ When I’m not immersed in the digital realm, you’ll find me:
 - Open Source Solution Development
 - Strategic Insight and Consultation
 
+### Subscribe To My Newsletter
+
+{{< newsletter >}}
 ### Colophon
 - This site is built using [Hugo](https://gohugo.io) a static site generator based on JAMstack, hosted in [GitHub](https://github.com) and deployed to [Netlify](https://netlify.com). It uses [Formspree](https://formspree.io) for static form handling, [Umami Cloud](https://umami.is) for Web Analytics and supports Web Monitization and Indieweb.
 
