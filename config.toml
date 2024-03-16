@@ -5,7 +5,8 @@ paginate = 3
 pygmentsCodeFences = true
 pygmentsCodefencesGuessSyntax = true
 pygmentsUseClasses = true
-copyright="Stephen Ajulu"
+copyright= "Stephen Ajulu"
+strapline = "IT Professional, Designer, Web Developer, Writer and Consultant"
 
 [outputs]
 home = ["HTML", "RSS", "JSON"]
