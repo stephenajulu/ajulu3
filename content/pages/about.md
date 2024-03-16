@@ -61,3 +61,5 @@ When I’m not immersed in the digital realm, you’ll find me:
 {{< form >}}
 
 ### Book a call with me(*Comin Soon*)
+
+{{< consult >}}
