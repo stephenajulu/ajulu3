@@ -6,7 +6,6 @@ pygmentsCodeFences = true
 pygmentsCodefencesGuessSyntax = true
 pygmentsUseClasses = true
 copyright= "Stephen Ajulu"
-strapline = "IT Professional, Designer, Web Developer, Writer and Consultant"
 
 [outputs]
 home = ["HTML", "RSS", "JSON"]
@@ -53,6 +52,7 @@ mediatype = "application/json"
   showFullTextinJSONFeed = "true"
   image = "images/socialimage.png"
   logo = "images/logo.svg"
+  strapline = "IT Professional, Web Designer, Writer and Consultant"
 
 
   [Author]
