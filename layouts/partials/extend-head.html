@@ -1,8 +1,8 @@
 {{- /* Head custom content area start */ -}}
 {{- /*     Insert any custom code (web-analytics, resources, etc.) - it will appear in the <head></head> section of every page. */ -}}
 {{- /*     Can be overwritten by partial with the same name in the global layouts. */ -}}
-{{- /* Head custom content area end */ -}}
-  
+
+
 {{ "<!-- Web Monitization -->" | safeHTML }}
     <meta name="monetization" content="$ilp.uphold.com/GLrwmQrfDeU9">
 
@@ -58,3 +58,17 @@
 
 {{ "<!-- Webmention Script -->" | safeHTML }}
     <script src="{{ "js/webmention.min.js" | absURL }}" async></script>
+
+{{ "<!-- Google tag (gtag.js) -->" | safeHTML }}
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-132349593-2"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-132349593-2');
+</script>
+
+
+{{- /* Head custom content area end */ -}}
+  
