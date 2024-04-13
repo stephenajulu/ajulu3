@@ -1,7 +1,7 @@
 baseURL = "https://stephenajulu.com"
 languageCode = "en-us"
 title = "Stephen Ajulu"
-paginate = 3
+paginate = 6
 pygmentsCodeFences = true
 pygmentsCodefencesGuessSyntax = true
 pygmentsUseClasses = true
