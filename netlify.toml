@@ -4,4 +4,4 @@
 
 [build.environment]
   HUGO_VERSION = "0.80.0"
-  HUGO_BASEURL = "https://ajulu3.netlify.app"
+  HUGO_BASEURL = "https://stephenajulu.com"
