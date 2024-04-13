@@ -43,5 +43,6 @@ collections_config:
     disable_add: false
     disable_add_folder: false
     disable_file_actions: false
+base_url: https://stephenajulu.com
 data_config: {}
 timezone: Etc/UTC
