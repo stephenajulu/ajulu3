@@ -4,7 +4,7 @@ paths:
   includes: layouts
   layouts: layouts
   static: static
-  uploads: static/uploads
+  uploads: static/images
   source: ''
   archetypes: archetypes
   assets: assets
