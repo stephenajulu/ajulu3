@@ -7,6 +7,9 @@ image: images/about.jpg
 ### About Ajulu
 Hello there! I’m Stephen Ajulu, a global tech expert, writer, and consultant with over a decade of experience. I build impactful products, brands, and solutions using cutting-edge technology, strategic insight, and innovative marketing strategies. I'm passionate about Web Development, Design, AI, Blockchain, Cybersecurity, Automation, Data Science, Robotics, and Cloud Computing. Beyond expertise, I also offer bespoke services and solutions in these very passions.
 
+### Purpose
+I create impactful products, establish powerful brands, cultivate thriving businesses, and devise tech solutions—all with the overarching purpose of advancing innovation for sustainable progress. My unwavering aspiration is to construct a harmonious world where technology and nature seamlessly coexist, propelling us toward the realization of a Type 1 civilization.
+
 ### Work
 - IT Officer at the Kenya National Library Service: By day, I contribute to the digital transformation of Kenya's national library, ensuring seamless access to knowledge and resources.
 - Founder and Consultant at Julz Insight: I wear my entrepreneurial hat by night, guiding businesses and individuals toward success through strategic insights and technological solutions.
