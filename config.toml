@@ -1,4 +1,4 @@
-baseURL = "https://ajulu.netlify.app"
+baseURL = "/"
 languageCode = "en-us"
 title = "Stephen Ajulu"
 paginate = 6
