@@ -1,4 +1,4 @@
-baseURL = "ajulu.netlify.app"
+baseURL = "/"
 languageCode = "en-us"
 title = "Stephen Ajulu"
 paginate = 6
@@ -25,7 +25,7 @@ mediatype = "application/json"
   google_analytics_id = ""
   twitter_handle = "@stephenajulu"
   creator = "stephenajulu"
-  showAuthorOnHomepage = true
+  showAuthorOnHomepage = false
   showAuthorOnPosts = true
   showIntroContentOnHomepage = true
   showPostsOnHomepage = false
@@ -50,8 +50,8 @@ mediatype = "application/json"
   formspree = "https://formspree.io/f/alunje73@gmail.com"
   copyright = "Stephen Ajulu"
   showFullTextinJSONFeed = "true"
-  image = "/images/socialimage.png"
-  logo = "/images/logo.svg"
+  image = "images/socialimage.png"
+  logo = "images/logo.svg"
   strapline = "IT Professional, Web Designer, Writer and Consultant"
 
 
