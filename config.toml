@@ -43,9 +43,9 @@ mediatype = "application/json"
   enableGoogleFonts = true 
   location = "Nairobi, Kenya"
   enableGitInfo = true
-  googleFontsUrl = "https://fonts.googleapis.com/css2?family=Inter:wght@100..900&family=Newsreader:ital,opsz,wght@0,6..72,200..800;1,6..72,200..800&display=swap"
+  googleFontsUrl = "https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&family=Newsreader:ital,opsz,wght@0,6..72,200..800;1,6..72,200..800&display=swap"
   fontFamilyHeading = "Newsreader"
-  fontFamilyParagraph = "Inter"
+  fontFamilyParagraph = "DM Sans"
   fontFamilyMonospace = "monospace"
   formspree = "https://formspree.io/f/alunje73@gmail.com"
   copyright = "Stephen Ajulu"
