@@ -48,9 +48,9 @@ When I’m not immersed in the digital realm, you’ll find me:
 * Web Development
 * Digital Transformation
 * Brand Identity Design
-* Content Writing
+* Writing
 * AI and Automation
-* Integrations
+* Integration
 * Cloud Computing
 * Strategic Insight and Consultation
 
@@ -73,15 +73,6 @@ When I’m not immersed in the digital realm, you’ll find me:
 * Phone: Samsung Galaxy A33 5G
 * Favorite Apps & Tools: Microsoft Edge Browser, SimpleNote, Obsidian, Copilot, Canva, Bitwarden, Coinbase Wallet, Penpot, Powertoys, WSL, Formspree, Netlify, GitHub, Ditto, and more
 
-### Online Presence
-
-* Instagram: @stephenajulu
-* Twitter: @stephenajulu
-* GitHub: @stephenajulu
-
-### Interested? [Let's chat](mailto:ajulu.b22uf@aleeas.com)
-
-{{< form >}}
 
 ### Book a call
 
