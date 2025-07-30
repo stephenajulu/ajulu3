@@ -85,4 +85,4 @@ When I’m not immersed in the digital realm, you’ll find me:
 
 ### Book a call
 
-{{&lt; consult &gt;}}
+{{< consult >}}
