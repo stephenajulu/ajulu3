@@ -5,7 +5,7 @@ image: images/about.jpg
 ---
 ### About Ajulu
 
-Hello there! I'm Stephen Ajulu, a seasoned tech expert, writer, and consultant with **over a decade of experience**. I love building impactful products, brands, and solutions at the intersection of **Technology**, **Design** and **Engineering**. Passionate about many domains, I delve into Web, Design, AI, Blockchain, Cybersecurity, Data, DevOps, Open Source and Cloud Computing. Beyond expertise, I also offer **bespoke services and solutions** in these very realms.
+Hello there! I'm Stephen Ajulu, a seasoned tech expert, writer, and consultant with **over a decade of experience** based in **Nairobi, Kenya**. I love building impactful products, brands, and solutions at the intersection of **Technology**, **Design** and **Engineering**. Passionate about many domains, I delve into Web, Design, AI, Blockchain, Cybersecurity, Data, DevOps, Open Source and Cloud Computing. Beyond expertise, I also offer **bespoke services and solutions** in these very realms.
 
 ### Vision and Mission
 
@@ -26,7 +26,11 @@ I find joy in expressing my thoughts through words:
 * Emerging Trends: My curiosity leads me to explore emerging technologies and share my findings.
 * Anything That Catches My Eye: I pen down what intrigues me from gadgets to cultural phenomena to spiritual revelation.
 
+&nbsp;
+
 <blockquote cite="https://twitter.com/JamesClear/status/1108397795763990528" style="font-family: Newsreader;font-weight: bold;font-size: 23px;">"Write about what fascinates you. You don't need to be an expert. Curiosity leads to expertise." - James Clear, Author of Atomic Habits</blockquote>
+
+&nbsp;
 
 ### Offline Adventures
 
