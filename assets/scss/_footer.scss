@@ -7,14 +7,13 @@
   
   .social-icon {
     margin-right: 10px;
-    fill: #ffffff;
     a {
       text-decoration: none;
       &:hover {
         text-decoration: none;
         img {
           opacity: 0.7;
-          fill: #ffffff;
+          color: #ffffff;
         }
       }
     }
