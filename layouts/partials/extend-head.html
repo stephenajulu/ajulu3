@@ -61,15 +61,6 @@
 <!-- Pinterest Verification -->
 <meta name="p:domain_verify" content="5f4e876bcc15cfd56239589defc9f674"/>
 
-
-
-{{ "<!-- PWA Script -->" | safeHTML }}
-  <script type="module">
-   import 'https://cdn.jsdelivr.net/npm/@pwabuilder/pwaupdate';
-   const el = document.createElement('pwa-update');
-   document.body.appendChild(el);
-  </script>
-
 {{ "<!-- Webmention Script -->" | safeHTML }}
     <script src="{{ "js/webmention.min.js" | absURL }}" async></script>
 
