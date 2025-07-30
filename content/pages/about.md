@@ -56,7 +56,7 @@ When I’m not immersed in the digital realm, you’ll find me:
 
 ### Subscribe To My Newsletter
 
-{{&lt; newsletter &gt;}}
+{{< newsletter >}}
 
 ### Colophon
 
