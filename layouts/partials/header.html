@@ -1,7 +1,5 @@
 <div class='header'>
-    <a class="header-logo" href="{{ .Site.Home.RelPermalink }}">
-      <img src="{{ .Site.Params.logo | absURL }}" alt="site-logo" style="width:140px;">
-    </a>
+    {{ partial "author-large.html" . }}
   <div class="menu-main">
     <ul style="font-family: Newsreader;">
       {{ $currentPage := . }}
