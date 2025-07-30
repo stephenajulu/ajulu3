@@ -1,5 +1,5 @@
 <div class='header'>
-    {{ partial "logo.html" . }}
+    <a class="header-logo" href="{{ .Site.Home.RelPermalink }}">{{ partial "logo.html" . }}</a>
   <div class="menu-main">
     <ul style="font-family: Newsreader;">
       {{ $currentPage := . }}
