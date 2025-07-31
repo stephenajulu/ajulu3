@@ -52,7 +52,6 @@ mediatype = "application/json"
   showFullTextinJSONFeed = "true"
   image = "images/socialimage.png"
   logo = "images/logo.svg"
-  strapline = "IT Professional, Web Designer, Writer and Consultant"
 
 
   [Author]
@@ -60,7 +59,7 @@ mediatype = "application/json"
     email  = "ajulu.b22uf@aleeas.com"
     url = "https://stephenajulu.com"
     image = "images/about.jpg"
-    description = "Hello, I'm Stephen Ajulu, a tech expert, writer, and consultant with over a decade of experience. I build impactful products, brands, and solutions by using cutting-edge technology, insight, and marketing."
+    description = "Hello, I'm Stephen Ajulu, a seasoned tech expert, writer, and consultant with over a decade of experience. I build impactful products and solutions by using technology, design, and engineering  strategically."
 
 # markdown config settings https://gohugo.io/getting-started/configuration-markup/#goldmark
 [markup]
@@ -81,11 +80,6 @@ mediatype = "application/json"
     identifier = "blog"
     weight = 2
     url = "/posts/"
-  [[menu.main]]
-    name = "Projects"
-    identifier = "projects"
-    weight = 3
-    url = "/projects/"
   [[menu.main]]
     name = "About"
     identifier = "about"
