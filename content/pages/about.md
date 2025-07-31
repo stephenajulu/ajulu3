@@ -5,7 +5,7 @@ image: images/about.jpg
 ---
 ### About Ajulu
 
-Hello there! I'm Stephen Ajulu, a seasoned tech expert, writer, and consultant with **over a decade of experience** based in **Nairobi, Kenya**. I love building impactful products, brands, and solutions at the intersection of **Technology**, **Design** and **Engineering**. Passionate about many domains, I delve into Web, Design, AI, Blockchain, Cybersecurity, Software, Systems, Decentralization, Augmented Reality, Data, DevOps, Open Source and Cloud Infrastructure. Beyond expertise, I also offer **bespoke services and solutions** in these very realms.
+Hello there! I'm Stephen Ajulu, a seasoned tech expert, writer, and consultant with **over a decade of experience** based in **Nairobi, Kenya**. I love building impactful products, brands, and solutions at the intersection of **Technology**, **Design**, and **Engineering**. Passionate about various domains, I delve into Web, Design, AI, Blockchain, Cybersecurity, Software, Systems, Decentralization, Augmented Reality, Mixed Reality, Extended Reality, Data, DevOps, Open Source, Cloud Infrastructure, and more. Beyond expertise, I also offer **bespoke services and solutions** in these very realms.
 
 ### Vision and Mission
 
@@ -24,7 +24,7 @@ I find joy in expressing my thoughts through words:
 
 * Tech, Design, and Lifestyle: I write about the latest tech, trends, innovations, and lifestyle choices.
 * Emerging Trends: My curiosity leads me to explore emerging technologies and share my findings.
-* Anything That Catches My Eye: I pen down what intrigues me from gadgets to cultural phenomena to spiritual revelation.
+* Anything That Catches My Eye: I pen down what intrigues me, from gadgets to cultural phenomena to spiritual revelation.
 
 &nbsp;
 
@@ -60,7 +60,7 @@ When I’m not immersed in the digital realm, you’ll find me:
 
 ### Colophon
 
-* This site is built using [Hugo](https://gohugo.io) a static site generator based on JAMstack, hosted in [GitHub](https://github.com) and deployed to [Netlify](https://netlify.com). It uses [Formspree](https://formspree.io) for static form handling, [Umami Cloud](https://umami.is) for Web Analytics and supports Web Monetization and IndieWeb.
+* This site is built using [Hugo](https://gohugo.io), a static site generator based on JAMstack, hosted in [GitHub](https://github.com) and deployed to [Netlify](https://netlify.com). It uses [Formspree](https://formspree.io) for static form handling, [Umami Cloud](https://umami.is) for Web Analytics, and supports Web Monetization and IndieWeb.
 
 ### Now
 
