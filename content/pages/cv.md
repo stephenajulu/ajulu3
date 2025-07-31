@@ -4,15 +4,11 @@ url: /cv/
 ---
 
 ## 👤 Stephen Ajulu
-Seasoned Tech Expert | Writer | Consultant
-
-📍 Nairobi, Kenya
-
-📞 +254740128010
-
-📧 alunje73@gmail.com
-
-🌐 [www.aju.lu](https://ajulu.netlify.app) • [LinkedIn](https://linkedin.com/in/stephenajulu) • [@stephenajulu](https://twitter.com/stephenajulu)
+- Seasoned Tech Expert | Writer | Consultant
+- 📍 Nairobi, Kenya
+- 📞 +254740128010
+- 📧 alunje73@gmail.com
+- 🌐 [www.aju.lu](https://ajulu.netlify.app) • [LinkedIn](https://linkedin.com/in/stephenajulu) • [@stephenajulu](https://twitter.com/stephenajulu)
 
 ---
 
