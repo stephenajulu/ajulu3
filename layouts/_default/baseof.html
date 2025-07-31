@@ -4,7 +4,7 @@
 <head>
   <meta charset="utf-8">
   <meta http-equiv="x-ua-compatible" content="ie=edge">
-  <title>{{ if .IsHome }} Home - {{ .Site.Title}} &middot; {{ .Site.Params.strapline }}{{ else }}{{ block "title" . }}{{ .Title }} - {{ .Site.Title }} &middot; {{ .Site.Params.strapline }}{{ end }}{{ end }}</title>
+  <title>{{ if .IsHome }}{{ .Site.Title}}{{ else }}{{ block "title" . }}{{ .Title }} | {{ .Site.Title }}{{ end }}{{ end }}</title>
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
   {{ "<!--Favicon -->" | safeHTML }}
