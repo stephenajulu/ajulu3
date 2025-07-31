@@ -52,14 +52,30 @@ He brings over a decade of experience in information technology and 4+ years in 
 
 ## 🎓 Education & Certifications
 
-### Mount Kenya University *(Ongoing)*
-- Ethical Hacking Bootcamp – Institute of Software Technologies
-- Cybersecurity & Cloud Workshops – The Computer Society of Kenya
-- Cisco Academy: Cybersecurity Introduction
-- IBM Digital Badges – Cloud, Cybersecurity, Web Design
-- French & Graphic Design – Epren College
-- Systems Troubleshooting – Cybrary.it
-- IT Diploma & Certificate – St. Paul’s University
+### Institute of Software Technologies
+- Ethical Hacking Bootcamp
+
+### The Computer Society of Kenya
+- Cybersecurity & Cloud Workshop
+
+### Cisco Academy
+- Cybersecurity Introduction Certification
+  
+### IBM Digital 
+- Cloud Introduction and Intermediary Badge
+- Cybersecurity Introduction and Intermediary Badge
+- Web Design Introduction and Intermediary Badge
+
+### Epren College
+- French
+- Graphic Design: Adobe Photoshop, Illustrator, and CorelDRAW
+
+### CybraryIT
+- Systems Troubleshooting
+
+### St. Paul's University
+- Diploma in Information Technology
+- Certificate in Information Technology
 
 ---
 
