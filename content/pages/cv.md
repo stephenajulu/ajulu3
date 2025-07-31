@@ -1,5 +1,5 @@
 ---
-title: Stephen Ajulu CV
+title: Curriculum Vitae
 url: /cv/
 ---
 
