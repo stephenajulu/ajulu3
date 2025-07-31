@@ -15,11 +15,11 @@ url: /cv/
 ## 🧭 Personal Summary
 Stephen Ajulu is a self-motivated, strategic thinker with a visionary edge. His goals include:
 1. Becoming an expert and thought leader in tech
-2. Creating impactful products and solutions using technology
+2. Build impactful products and solutions using technology and strategic insight
 3. Contributing to Kenya’s socio-economic development
 4. Fulfilling company mandates with excellence
 
-He brings over a decade of experience in tech and 4+ years in business, with strong analytical, imaginative, and leadership capabilities.
+He brings over a decade of experience in information technology and 4+ years in business, with strong analytical, imaginative, and leadership capabilities.
 
 ---
 
@@ -31,7 +31,7 @@ He brings over a decade of experience in tech and 4+ years in business, with str
 - UI/UX, Web & Brand Identity Design
 - Microsoft Dynamics NAV 2015 & Business Central 365 ERPs
 - PowerShell & Bash Scripting
-- Active Directory & Windows Server
+- Active Directory & Windows/Linux Server
 - DevOps, AI, Automation, Integration, Open Source
 - Cybersecurity & Ethical Hacking
 - Training, Troubleshooting, Conflict Resolution
