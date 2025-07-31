@@ -5,9 +5,13 @@ url: /cv/
 
 ## 👤 Stephen Ajulu
 Seasoned Tech Expert | Writer | Consultant
+
 📍 Nairobi, Kenya
+
 📞 +254740128010
+
 📧 alunje73@gmail.com
+
 🌐 [www.aju.lu](https://ajulu.netlify.app) • [LinkedIn](https://linkedin.com/in/stephenajulu) • [@stephenajulu](https://twitter.com/stephenajulu)
 
 ---
@@ -32,7 +36,7 @@ He brings over a decade of experience in tech and 4+ years in business, with str
 - Microsoft Dynamics NAV 2015 & Business Central 365 ERPs
 - PowerShell & Bash Scripting
 - Active Directory & Windows Server
-- DevOps, AI, Automation, Intergration, Open Source
+- DevOps, AI, Automation, Integration, Open Source
 - Cybersecurity & Ethical Hacking
 - Training, Troubleshooting, Conflict Resolution
 
@@ -77,8 +81,9 @@ He brings over a decade of experience in tech and 4+ years in business, with str
 
 ## 📚 Publications & Writing
 - Emerging Tech Trends
-- Philosophy of Web3 & Decentralization
-- Designing Societal Systems with Modularity
+- Web3 Decentralization & Trust
+- Modular Systems in Societal Design
+- Cybersecurity Ethics
 - [Newsletter Archive](https://buttondown.com/ajulu)
 - [Blog Archive](https://ajulu.netlify.app)
 
