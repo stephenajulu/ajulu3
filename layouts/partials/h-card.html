@@ -1,9 +1,10 @@
 <!-- Microformat2 data -->
 <div hidden>
-  <a class="u-url" href="{{ .Permalink }}">{{ .Title }}</a>
-  <p class="h-card p-author">
-    <a class="p-name u-url" href="{{ $.Site.BaseURL }}" rel="author">Stephen Ajulu</a>
-    <img alt="Stephen Ajulu" class="u-photo" src="images/about.jpg">
-    <p class="p-note">Hi! I'm Stephen Ajulu, an IT Professional, Writer and Consultant. Learn more by visiting my <a href="https://stephenajulu.com">website</a></p>
-  </p>
+  <div class="h-card">
+  <p class="p-name" rel="author">Stephen Ajulu</p>
+  <a class="u-url" href="{{ .Permalink }}">Website</a>
+  <a class="u-email" href="mailto:alunje73@gmail.com">Email</a>
+  <p class="p-locality">Nairobi</p>
+  <img class="u-photo" src="images/about.jpg" alt="Stephen Ajulu">
+</div>
 </div>
