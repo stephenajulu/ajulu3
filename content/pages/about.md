@@ -5,7 +5,7 @@ image: images/about.jpg
 ---
 ### About Ajulu
 
-Hello there! I'm Stephen Ajulu, a seasoned tech expert, writer, and consultant with **over a decade of experience** based in **Nairobi, Kenya**. I love building impactful products, brands, and solutions at the intersection of **Technology**, **Design** and **Engineering**. Passionate about many domains, I delve into Web, Design, AI, Blockchain, Cybersecurity, Data, DevOps, Open Source and Cloud Computing. Beyond expertise, I also offer **bespoke services and solutions** in these very realms.
+Hello there! I'm Stephen Ajulu, a seasoned tech expert, writer, and consultant with **over a decade of experience** based in **Nairobi, Kenya**. I love building impactful products, brands, and solutions at the intersection of **Technology**, **Design** and **Engineering**. Passionate about many domains, I delve into Web, Design, AI, Blockchain, Cybersecurity, Software, Systems, Decentralization, Augmented Reality, Data, DevOps, Open Source and Cloud Infrastructure. Beyond expertise, I also offer **bespoke services and solutions** in these very realms.
 
 ### Vision and Mission
 
